@@ -176,10 +176,12 @@ Additionally, the South region, which was absent in the donation ranking, appear
 As a general trend, we can see that the higher the donation amount, the higher the impact score.
 
 Invidual donations on South region were the most impactful and significant, and the Corporate North the least. It's interesing to note that individual donations seem to be the most impactful (more on that next).
+
 ![image](https://github.com/user-attachments/assets/15da6187-ea82-444d-882d-ba07b6117ce0)
 Continuing with the observation made before, here it's even more clear that the Individual South donations were the more significant.
 Corporate donations as a hole were the least significant and Organization donations had a high impact as a hole, showing good scores in all regions.
 
+---
 
 ## Conclusion
 This project demonstrates how different SQL techniques can achieve the same results, with trade-offs in efficiency, readability, and flexibility. By exploring CTEs, subqueries, aggregation, and PostgreSQL-specific functions, we can optimize queries based on the dataset size and use case.
