@@ -187,5 +187,5 @@ Corporate donations as a hole were the least significant and Organization donati
 ## Conclusion
 This project demonstrates how different SQL techniques can achieve the same results, with trade-offs in efficiency, readability, and flexibility. By exploring CTEs, subqueries, aggregation, and PostgreSQL-specific functions, we can optimize queries based on the dataset size and use case.
 
-On the other hand, related to the data used, we can conclude that the higher the donation, the bigger the impact, and that individual donations tend to show a bigger impact.
+Additionaly, related to the data used, we can conclude that the higher the donation, the bigger the impact, and that individual donations tend to show a bigger impact.
 
